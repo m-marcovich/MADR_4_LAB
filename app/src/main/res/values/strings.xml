@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MADR_4_LAB</string>
+    <string name="notes_text">Notes</string>
+    <string name="Add_Notes">Add Note</string>
+    <string name="Delete_Notes">Delete Note</string>
+    <string name="NameNote">Name</string>
+    <string name="ContentNote">Content</string>
 </resources>
